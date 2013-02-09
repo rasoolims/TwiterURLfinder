@@ -1,0 +1,52 @@
+=================================================================
+Twitter URL Finder (c) 2013 Mohammad Sadegh Rasooli 
+=================================================================
+
+For any questions, please contact 
+    Mohammad Sadegh Rasooli rasooli@cs.columbia.edu
+    
+=================================================================
+* BabelGUM v 0.3
+=================================================================
+
+Release date: Feb 8, 2013
+Authors: Mohammad Sadegh Rasooli 
+
+This is a simple program for retrieving unique URLs in the recent 100 tweets containing the input hashtag.
+
+=================================================================
+* Updates
+=================================================================
+
+v 0.1 - initial release Feb 8, 2013
+
+=================================================================
+* Requirements
+=================================================================
+The following items should be installed:
+
+	* Python: http://python.org/
+	* Twython: http://pypi.python.org/pypi/twython
+
+=================================================================
+* USAGE
+=================================================================
+Usage:
+	>> python find_twit_url.py [hashtag]
+There are two way to write hashtags; either without # tag or with hashtag surrounded by quotes.
+	* Example
+		In order to find #ibm
+			>> python find_twit_url.py  ibm
+			or
+			>> python find_twit_url.py  '#ibm'
+
+=================================================================
+* WARNING
+=================================================================
+To use the program, your computer should be connected to the web.
+This program may not work with Unicode hashtags such Arabic-script letters in the input
+
+=================================================================
+Twitter URL Finder (c) 2013 Mohammad Sadegh Rasooli 
+=================================================================
+
