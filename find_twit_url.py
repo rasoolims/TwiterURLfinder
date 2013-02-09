@@ -1,6 +1,10 @@
 #! /usr/bin/python
 # coding=utf8
- 
+
+
+'''
+	This is a simple program for retrieving unique URLs in the recent 100 tweets containing the input hashtag.
+'''
 
 __author__="Mohammad Sadegh Rasooli <rasooli@cs.columbia.edu>"
 __date__ ="Feb, 2013"
