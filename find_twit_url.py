@@ -8,7 +8,6 @@ __date__ ="Feb, 2013"
 import sys
 import codecs
 import re
-from collections import defaultdict
 from twython import Twython
 
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
