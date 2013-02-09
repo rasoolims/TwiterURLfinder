@@ -42,7 +42,7 @@ There are two way to write hashtags; either without # tag or with hashtag surrou
 =================================================================
 * WARNING
 =================================================================
-To use the program, your computer should be connected to the web.
+To use the program, your computer should be connected to the internet.
 This program may not work with Unicode hashtags such Arabic-script letters in the input
 
 =================================================================
